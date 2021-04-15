@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "26786239728",
+    "firebase_url": "https://hacker-space-ltda.firebaseio.com",
+    "project_id": "hacker-space-ltda",
+    "storage_bucket": "hacker-space-ltda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26786239728:android:7fc60e2dac21472a529e35",
+        "android_client_info": {
+          "package_name": "com.example.hackerspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26786239728-g3ssjo48pql5io3pevu1o3ha4mtjqdsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxH-V1HLXPkIA6xjgRQEy5Nmxk2uGPvLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26786239728-g3ssjo48pql5io3pevu1o3ha4mtjqdsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
